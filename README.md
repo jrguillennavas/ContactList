@@ -28,7 +28,7 @@ This project is a basic implementation of a contacts list in C#.
 - Submit a pull request.
 
 ## Authors
-- [Your Name](https://github.com/jrguillennavas) - Initial work
+- [José Guillen](https://github.com/jrguillennavas) - Initial work
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
